@@ -21,7 +21,7 @@ echo $USER
 ```
 - This will output your current username. Info is stored in your shell's environment.
 ```
-echo $PATH
+echo $PATH 
 ```
 - This command returns a colon-separated list of directories. When you type a command, your system searches through these directories to find the corresponding executable file.
 ## Command Substitution *$()*
